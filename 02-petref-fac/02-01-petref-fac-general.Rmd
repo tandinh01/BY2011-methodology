@@ -15,7 +15,7 @@ THESE_CATEGORIES <- c(
 
 #### Introduction {-}
 
-Petroleum refining involves processing crude oil into consumable products such as fuel gas, lube oil, and grease. To achieve this process, an array of equipment is used to refine crude oil; the emissions that are generated as a byproduct from these processes make up the petroleum refining emissions categories. Emissions reported are those generated via basic refining processes/devices and do not include emissions from refinery fugitives, storage units, and combustion processes (other than flares and blow down systems). These non-included sources are accounted for in other categories of the emission inventory report.
+This is a test to see by typing this sentence what happens to the file.  Petroleum refining involves processing crude oil into consumable products such as fuel gas, lube oil, and grease. To achieve this process, an array of equipment is used to refine crude oil; the emissions that are generated as a byproduct from these processes make up the petroleum refining emissions categories. Emissions reported are those generated via basic refining processes/devices and do not include emissions from refinery fugitives, storage units, and combustion processes (other than flares and blow down systems). These non-included sources are accounted for in other categories of the emission inventory report.
 
 **Category 10** accounts for emissions from refining processes that involve chemical reactions, such as, but not limited to cracking, polymerization, and reforming. Significant amounts of nitrogen oxide (NO~x~), sulfur oxide (SO~x~), carbon monoxide (CO), and particulate (PM) emissions are produced during catalytic cracking and coking operations.
 
